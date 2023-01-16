@@ -9,7 +9,7 @@ A simple Flutter To-do list app. This app is demonstrate a very simple To-do lis
 
 ## Getting Started
 
-You can clone this project into your pc and try to run it. After you clone make sure to run flutter pub get first then flutter run to run the project.
+You can clone this project into your pc and try to run it. After you clone make sure to run `flutter pub get` first then `flutter run` to run the project.
 
 ## Environment
 
