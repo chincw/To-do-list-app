@@ -4,7 +4,7 @@ A simple Flutter To-do list app. This app is demonstrate a very simple To-do lis
 
 ## UI showcase
 
-![file_1](https://freeimage.host/i/Ha32poB)
+![file_1](https://i.postimg.cc/HkMCXnQK/Simulator-Screen-Shot-i-Phone-14-Pro-2023-01-16-at-14-26-16.png)
 ![file_2](https://freeimage.host/i/Ha32poB)
 
 ## Getting Started
